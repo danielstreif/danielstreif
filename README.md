@@ -2,7 +2,7 @@
 
 ## I am a software developer with a background in data science
 - 🔭 I’m currently working on - completing a coding bootcamp in Berlin, Germany
-- 🌱 I’m currently learning - Vue.js
+- 🌱 I’m currently learning - vue.js
 - ⚡ Fun fact - I used to work with satellite imagery 🛰
 
 ## Connect with me:
