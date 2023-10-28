@@ -2,7 +2,7 @@
 
 ## I am a software developer with a background in data science
 - 🔭 I’m currently working on - project management software
-- 🌱 I’m currently learning - python
+- 🌱 I’m currently learning - python and vim
 - ⚡ Fun fact - I used to work with satellite imagery 🛰
 
 ## Connect with me:
